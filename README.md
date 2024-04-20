@@ -133,8 +133,8 @@
   
 <br />
 
-[Matrix_A](https://github.com/akeslo/Custom-Boot-Display-K1-K1Max/blob/main/Matrix/Matrix_A/Matrix_A.7z)
-[Matrix_B](https://github.com/akeslo/Custom-Boot-Display-K1-K1Max/blob/main/Matrix/Matrix_B/Matrix_B.7z)
+[Matrix_A](https://github.com/akeslo/Custom-Boot-Display-K1-K1Max/blob/main/Movies/Matrix_A/Matrix_A.7z)
+[Matrix_B](https://github.com/akeslo/Custom-Boot-Display-K1-K1Max/blob/main/Movies/Matrix_B/Matrix_B.7z)
 [The Dude](https://github.com/akeslo/Custom-Boot-Display-K1-K1Max/blob/main/Movies/The%20Dude/TheDude.7z)
 
 <br />
