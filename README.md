@@ -129,11 +129,11 @@
 <h1 align="center">Matrix</h1>
 
 <div align="center">
-  <img src="https://github.com/KORSiRO/Custom-Boot-Display-K1-K1Max/blob/main/Game%20Console/PS1/Images/ps1.gif" width="300"/> 
+  <img src="https://github.com/akeslo/Custom-Boot-Display-K1-K1Max/blob/main/Matrix/Matrix_A/images/matrix_neo.gif?raw=true" width="300"/> 
 
 <br />
 
-[Download PS1](https://github.com/KORSiRO/Custom-Boot-Display-K1-K1Max/blob/main/Game%20Console/PS1/Boot_K1_K1Max_PS1.7z)
+[Matrix_A](https://github.com/akeslo/Custom-Boot-Display-K1-K1Max/blob/main/Matrix/Matrix_A/Matrix_A.7z)
 
 <br />
 
