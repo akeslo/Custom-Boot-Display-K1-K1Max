@@ -129,9 +129,7 @@
 <h1 align="center">Matrix</h1>
 
 <div align="center">
-  <img src="https://github.com/akeslo/Custom-Boot-Display-K1-K1Max/blob/main/Movies/Matrix_A/images/matrix_neo.gif?raw=true" width="300"/>
-  <img src="https://github.com/akeslo/Custom-Boot-Display-K1-K1Max/blob/main/Movies/Matrix_B/images/Matrix_B.gif?raw=true" width="300"/>
-  <img src="https://github.com/akeslo/Custom-Boot-Display-K1-K1Max/blob/main/Movies/The%20Dude/images/thedude.gif?raw=true" width="300"/> 
+  <img src="https://github.com/akeslo/Custom-Boot-Display-K1-K1Max/blob/main/Movies/Matrix_A/images/matrix_neo.gif?raw=true" width="300"/><img src="https://github.com/akeslo/Custom-Boot-Display-K1-K1Max/blob/main/Movies/Matrix_B/images/Matrix_B.gif?raw=true" width="300"/><img src="https://github.com/akeslo/Custom-Boot-Display-K1-K1Max/blob/main/Movies/The%20Dude/images/thedude.gif?raw=true" width="300"/> 
   
 <br />
 
